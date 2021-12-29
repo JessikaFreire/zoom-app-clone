@@ -1,0 +1,29 @@
+zoom-app-clone
+
+expo init zoom-app-clone
+
+expo start
+
+rfce
+
+------------------------
+npm i react-native-vector-icons --save
+
+npm install @react-navigation/native --save
+npm install @react-navigation/stack --save
+
+yarn add react-native-safe-area-view react-native-safe-area-context
+npm install react-native-gesture-handler
+
+npm install socket.io --save
+npm install socket.io-client --save
+
+------------------------------------------------
+zoom-app-clone-api
+
+npm init
+npm install express --save
+npm install -g nodemon --save
+
+nodemon index.js
+
